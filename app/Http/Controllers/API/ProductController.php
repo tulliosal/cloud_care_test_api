@@ -6,10 +6,6 @@ use Illuminate\Http\Request;
 use App\Http\Controllers\API\BaseController as BaseController;
 use Illuminate\Support\Facades\Http;
 
-//use App\Models\Product;
-//use Validator;
-//use App\Http\Resources\ProductResource;
-
 class ProductController extends BaseController
 {
     /**
